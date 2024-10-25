@@ -19,3 +19,4 @@ train_dataset = Omniglot(root='data/', download=True, transform=your_transform)
 ```
 ## Citation
 Bennequin, E. easyfsl [Computer software]. https://github.com/sicara/easy-few-shot-learning
+Snell, J., Swersky, K., & Zemel, R. S. (2017). Prototypical networks for few-shot learning. arXiv. https://arxiv.org/abs/1703.05175
